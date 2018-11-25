@@ -1,5 +1,38 @@
-body{
-  background-color: coral
-  color:#555555;
-  font-family: sans-serif;
+html {
+  background-color: pink;
+  width: 50%;
+  margin: auto;
+  border: 3px solid black
+  padding: 10px
+}
+.header {
+  text-align: center;
+  }
+img {
+    float: right;
+    border-radius: 500px;
+}
+.introduction {
+  text-align: center;
+}
+.content {
+  text-align: right;
+  text-decoration-color: green
+
+}
+h2{
+  text-decoration: underline strong;
+}
+h1{
+  text-align: center;
+  background-color: orange
+}
+h3{
+  text-align: left;
+}
+#framing{
+  width: 100
+  border: 10px solid red;
+  padding: 20px;
+
 }
