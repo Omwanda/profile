@@ -14,7 +14,7 @@ html {
 img {
     float: right;
     border-radius: 500px;
-}
+  }
 .introduction {
   text-align: center;
 }
@@ -38,4 +38,3 @@ h3{
 span{
   font-weight: bold;
   font-family: fantasy;
-}
